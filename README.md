@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Evelyn Gregorio
+- 👋 Hi, I’m a Evelyn Gregorio
 - 👀 I’m interested in programação, sistema de informações, desenvolvimento fullstack.
 - 🌱 I’m currently learning a desenvolver aplicações desktop em C#.
 - 💞️ I’m looking to collaborate on projetos
