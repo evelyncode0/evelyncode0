@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a Evelyn Gregorio
 - 👀 I’m interested in programação, sistema de informações, desenvolvimento fullstack.
-- 🌱 I’m currently learning a desenvolver aplicações desktop em C#.
+- 🌱 I’m currently learning a desenvolver aplicações web, desktop e mobile.
 - 💞️ I’m looking to collaborate on projetos
 - 📫 How to reach me Email: evelyngregorio232@gmail.com
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
